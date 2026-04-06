@@ -1,3 +1,4 @@
+import math_module
 
 
 print('hello world ')
